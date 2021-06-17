@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitej23/Forkify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitej23/Forkify/issues"
+  },
+  "homepage": "https://github.com/mitej23/Forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-nightly.724",
+    "parcel": "^2.0.0-nightly.722"
+  }
+}
